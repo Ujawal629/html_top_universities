@@ -1,0 +1,55 @@
+h1{ color: rgb(233, 7, 52);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+.mid {
+    text-align: center;
+    background-image: url("./Image/Dehradun\ banner_0.jpg");
+    height:400px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    
+}
+   .upes {
+    text-align: center;
+   }
+    .course{
+        color: crimson;
+    }
+.College {
+    text-align: center;
+}
+.upesphoto {
+    background-image: url("./Image/IMG_20221105_121304.jpg");
+    width: 500px;
+}
+.upesbck {
+    background-image: url("./Image/campus-image-1024x555.jpg");
+    background-position: right;
+    background-repeat: no-repeat;      
+}
+.UPS {
+    color: green;
+}
+.SGRRbck {
+    background-image:url("./Image/Shri-Guru-Ram-Rai-Institute-of-Medical-Health-Sciences-Dehradun-Admin-block.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: right;
+}
+.IUUbck {
+    background-image: url(./Image/iuu-campus12.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: right;
+}
+
+.REVIEW {
+    background-color: aqua; 
+    width: 600px; 
+}
